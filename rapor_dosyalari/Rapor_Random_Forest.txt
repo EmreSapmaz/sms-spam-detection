@@ -1,0 +1,15 @@
+MODEL: Random Forest
+GENEL BAÞARI (ACCURACY): %94.69
+------------------------------------------------------------
+                     precision    recall  f1-score   support
+
+           Abonelik       0.87      0.49      0.63        67
+              Bahis       0.95      0.75      0.84        28
+     Dolandiricilik       0.95      0.95      0.95        22
+Dolandiricilik_Odul       0.00      0.00      0.00         1
+             Normal       0.95      1.00      0.97       895
+          Promosyon       1.00      0.45      0.62        22
+
+           accuracy                           0.95      1035
+          macro avg       0.79      0.61      0.67      1035
+       weighted avg       0.94      0.95      0.94      1035

@@ -1,0 +1,15 @@
+MODEL: Naive Bayes
+GENEL BAÞARI (ACCURACY): %92.37
+------------------------------------------------------------
+                     precision    recall  f1-score   support
+
+           Abonelik       0.68      0.34      0.46        67
+              Bahis       0.94      0.57      0.71        28
+     Dolandiricilik       1.00      0.77      0.87        22
+Dolandiricilik_Odul       0.00      0.00      0.00         1
+             Normal       0.93      1.00      0.96       895
+          Promosyon       1.00      0.23      0.37        22
+
+           accuracy                           0.92      1035
+          macro avg       0.76      0.49      0.56      1035
+       weighted avg       0.92      0.92      0.91      1035

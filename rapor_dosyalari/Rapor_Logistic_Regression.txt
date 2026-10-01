@@ -1,0 +1,15 @@
+MODEL: Logistic Regression
+GENEL BAÞARI (ACCURACY): %93.91
+------------------------------------------------------------
+                     precision    recall  f1-score   support
+
+           Abonelik       0.81      0.45      0.58        67
+              Bahis       0.89      0.61      0.72        28
+     Dolandiricilik       1.00      0.82      0.90        22
+Dolandiricilik_Odul       0.00      0.00      0.00         1
+             Normal       0.94      1.00      0.97       895
+          Promosyon       0.93      0.59      0.72        22
+
+           accuracy                           0.94      1035
+          macro avg       0.76      0.58      0.65      1035
+       weighted avg       0.93      0.94      0.93      1035

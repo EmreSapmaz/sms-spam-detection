@@ -1,0 +1,15 @@
+MODEL: Decision Tree
+GENEL BAÞARI (ACCURACY): %93.82
+------------------------------------------------------------
+                     precision    recall  f1-score   support
+
+           Abonelik       0.62      0.49      0.55        67
+              Bahis       0.71      0.71      0.71        28
+     Dolandiricilik       1.00      0.86      0.93        22
+Dolandiricilik_Odul       0.00      0.00      0.00         1
+             Normal       0.97      0.99      0.98       895
+          Promosyon       0.71      0.77      0.74        22
+
+           accuracy                           0.94      1035
+          macro avg       0.67      0.64      0.65      1035
+       weighted avg       0.93      0.94      0.93      1035

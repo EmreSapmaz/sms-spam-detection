@@ -1,0 +1,15 @@
+MODEL: KNN
+GENEL BAÞARI (ACCURACY): %90.34
+------------------------------------------------------------
+                     precision    recall  f1-score   support
+
+           Abonelik       0.89      0.12      0.21        67
+              Bahis       0.79      0.39      0.52        28
+     Dolandiricilik       1.00      0.77      0.87        22
+Dolandiricilik_Odul       0.00      0.00      0.00         1
+             Normal       0.90      1.00      0.95       895
+          Promosyon       1.00      0.23      0.37        22
+
+           accuracy                           0.90      1035
+          macro avg       0.76      0.42      0.49      1035
+       weighted avg       0.90      0.90      0.87      1035
